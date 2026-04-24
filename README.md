@@ -65,7 +65,7 @@ Command:
 
 ## 📁 Skill File
 
-See attached implementation: 
+See attached implementation: ./techyg.skill
 
 ## 🤝 Contributing
 
