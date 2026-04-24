@@ -63,9 +63,12 @@ Command:
 /techyg suggest me a gaming phone under ₹50000
 ```
 
-## 📁 Skill File
+## 📁 Install the Skill
 
-See attached implementation: Download techyg.skill [./techyg.skill] file upload it in the skill section of your claude.
+1. Download the **[techyg.skill](./techyg.skill)** file  
+2. Go to **Customize → Skills**  
+3. Click **Plus icon**  
+4. Upload the file and start using `/techyg`
 
 ## 🤝 Contributing
 
