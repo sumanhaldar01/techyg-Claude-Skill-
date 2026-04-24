@@ -65,7 +65,7 @@ Command:
 
 ## 📁 Skill File
 
-See attached implementation: Download the #techyg.skill file upload it in the skill section of your claude.
+See attached implementation: Download techyg.skill [./techyg.skill] file upload it in the skill section of your claude.
 
 ## 🤝 Contributing
 
